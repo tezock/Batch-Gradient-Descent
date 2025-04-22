@@ -1,0 +1,800 @@
+Iteration 1 Of Task 2
+Current Gradient   :[-9.33039254960891E7, -1.2719081609323194E9]
+Transformed Gradient   :[-75.968362906762, -1035.591806454368]
+Current Cost       :1621.605622751033
+Number of Entries  :2456389.0
+Current Predictions:[0.001, 0.001]
+Diff          :4.765470906057943E-36
+
+Iteration 2 Of Task 2
+Current Gradient   :[-6.19851239251445E7, -8.305559664069426E8]
+Transformed Gradient   :[-50.46849169666897, -676.2413985789242]
+Current Cost       :730.4228017491355
+Number of Entries  :2456389.0
+Current Predictions:[0.076968362906762, 1.036591806454368]
+Diff          :0.4504318383590596
+
+Iteration 3 Of Task 2
+Current Gradient   :[-4.1531832712405406E7, -5.423271169133793E8]
+Transformed Gradient   :[-33.81535474422447, -441.5645216725684]
+Current Cost       :350.3426430217668
+Number of Entries  :2456389.0
+Current Predictions:[0.12743685460343096, 1.7128332050332922]
+Diff          :0.4796436285707471
+
+Iteration 4 Of Task 2
+Current Gradient   :[-2.81743571185787E7, -3.540967926858824E8]
+Transformed Gradient   :[-22.939654198564394, -288.30677281642477]
+Current Cost       :188.2404131245394
+Number of Entries  :2456389.0
+Current Predictions:[0.16125220934765544, 2.1543977267058607]
+Diff          :0.5373037421335091
+
+Iteration 5 Of Task 2
+Current Gradient   :[-1.94508653793065E7, -2.311713705482955E8]
+Transformed Gradient   :[-15.836958543053644, -188.22048995358267]
+Current Cost       :119.10263343677904
+Number of Entries  :2456389.0
+Current Predictions:[0.18419186354621983, 2.4427044995222853]
+Diff          :0.6327155336085085
+
+Iteration 6 Of Task 2
+Current Gradient   :[-1.3753636961550415E7, -1.508938797226558E8]
+Transformed Gradient   :[-11.198256433773652, -122.85829298425925]
+Current Cost       :89.61285517802453
+Number of Entries  :2456389.0
+Current Predictions:[0.20002882208927347, 2.630924989475868]
+Diff          :0.7524002836225447
+
+Iteration 7 Of Task 2
+Current Gradient   :[-1.0032736061439374E7, -9.846798941807877E7]
+Transformed Gradient   :[-8.16868668719765, -80.17296073063245]
+Current Cost       :77.03238055338798
+Number of Entries  :2456389.0
+Current Predictions:[0.21122707852304712, 2.7537832824601276]
+Diff          :0.8596130588670093
+
+Iteration 8 Of Task 2
+Current Gradient   :[-7602493.0183741525, -6.423082779606456E7]
+Transformed Gradient   :[-6.18997481129752, -52.29695117187429]
+Current Cost       :71.66348232740401
+Number of Entries  :2456389.0
+Current Predictions:[0.21939576521024476, 2.83395624319076]
+Diff          :0.9303033583096526
+
+Iteration 9 Of Task 2
+Current Gradient   :[-6015125.328174619, -4.187197280082678E7]
+Transformed Gradient   :[-4.897534818935127, -34.092297922541405]
+Current Cost       :69.37021945390329
+Number of Entries  :2456389.0
+Current Predictions:[0.22558574002154227, 2.8862531943626344]
+Diff          :0.9679995612964543
+
+Iteration 10 Of Task 2
+Current Gradient   :[-4978204.752325506, -2.7270348712229338E7]
+Transformed Gradient   :[-4.053270676855747, -22.203607581884903]
+Current Cost       :68.38867262198269
+Number of Entries  :2456389.0
+Current Predictions:[0.2304832748404774, 2.920345492285176]
+Diff          :0.9858506021799046
+
+Iteration 11 Of Task 2
+Current Gradient   :[-4300758.499610562, -1.773465137630785E7]
+Transformed Gradient   :[-3.5016917105642156, -14.439611459184883]
+Current Cost       :67.9665556401585
+Number of Entries  :2456389.0
+Current Predictions:[0.23453654551733313, 2.942549099867061]
+Diff          :0.9938276769289348
+
+Iteration 12 Of Task 2
+Current Gradient   :[-3858070.136436314, -1.1507301330642717E7]
+Transformed Gradient   :[-3.14125338978176, -9.369282577509276]
+Current Cost       :67.78302927767265
+Number of Entries  :2456389.0
+Current Predictions:[0.23803823722789735, 2.956988711326246]
+Diff          :0.9972997548462289
+
+Iteration 13 Of Task 2
+Current Gradient   :[-3568692.5168015556, -7440496.100982473]
+Transformed Gradient   :[-2.9056411804494773, -6.058076388538194]
+Current Cost       :67.7012602208679
+Number of Entries  :2456389.0
+Current Predictions:[0.24117949061767913, 2.966357993903755]
+Diff          :0.9987936647612813
+
+Iteration 14 Of Task 2
+Current Gradient   :[-3379435.8773262207, -4784653.3509360505]
+Transformed Gradient   :[-2.7515478023441893, -3.895680489479517]
+Current Cost       :67.66289103045943
+Number of Entries  :2456389.0
+Current Predictions:[0.2440851317981286, 2.9724160702922933]
+Diff          :0.9994332573679827
+
+Iteration 15 Of Task 2
+Current Gradient   :[-3255564.18282212, -3050251.8504623882]
+Transformed Gradient   :[-2.650691061409345, -2.4835250853691235]
+Current Cost       :67.64303309787819
+Number of Entries  :2456389.0
+Current Predictions:[0.24683667960047279, 2.9763117507817727]
+Diff          :0.9997065166403797
+
+Iteration 16 Of Task 2
+Current Gradient   :[-3174392.764964884, -1917605.525024132]
+Transformed Gradient   :[-2.584601026111812, -1.5613207232438608]
+Current Cost       :67.63107178888585
+Number of Entries  :2456389.0
+Current Predictions:[0.24948737066188212, 2.978795275867142]
+Diff          :0.9998231701264041
+
+Iteration 17 Of Task 2
+Current Gradient   :[-3121107.2048175205, -1177940.617777368]
+Transformed Gradient   :[-2.5412157478457362, -0.9590831238678955]
+Current Cost       :67.62248011386556
+Number of Entries  :2456389.0
+Current Predictions:[0.25207197168799395, 2.9803565965903855]
+Diff          :0.9998729626073781
+
+Iteration 18 Of Task 2
+Current Gradient   :[-3086032.817905267, -694915.6205387192]
+Transformed Gradient   :[-2.512658066703007, -0.5658025830100356]
+Current Cost       :67.61532737594493
+Number of Entries  :2456389.0
+Current Predictions:[0.25461318743583966, 2.9813156797142533]
+Diff          :0.999894225442359
+
+Iteration 19 Of Task 2
+Current Gradient   :[-3062851.467808207, -379491.53178711457]
+Transformed Gradient   :[-2.4937837352375434, -0.30898325288634215]
+Current Cost       :67.60879015970319
+Number of Entries  :2456389.0
+Current Predictions:[0.2571258455025427, 2.9818814822972635]
+Diff          :0.9999033175391522
+
+Iteration 20 Of Task 2
+Current Gradient   :[-3047437.0408560378, -173520.66123084127]
+Transformed Gradient   :[-2.4812332581330057, -0.14128109288133212]
+Current Cost       :67.6025172893952
+Number of Entries  :2456389.0
+Current Predictions:[0.25961962923778026, 2.9821904655501497]
+Diff          :0.9999072181251406
+
+Iteration 21 Of Task 2
+Current Gradient   :[-3037094.942794501, -39029.15664037898]
+Transformed Gradient   :[-2.4728126878881973, -0.031777667657996334]
+Current Cost       :67.59635899265487
+Number of Entries  :2456389.0
+Current Predictions:[0.26210086249591324, 2.982331746643031]
+Diff          :0.9999089043280155
+
+Iteration 22 Of Task 2
+Current Gradient   :[-3030065.4455193984, 48782.1347251079]
+Transformed Gradient   :[-2.467089248094987, 0.03971857448075846]
+Current Cost       :67.5902513927365
+Number of Entries  :2456389.0
+Current Predictions:[0.2645736751838014, 2.982363524310689]
+Diff          :0.999909646022221
+
+Iteration 23 Of Task 2
+Current Gradient   :[-3025199.343344492, 106108.51411730748]
+Transformed Gradient   :[-2.4631272517052403, 0.08639390106152363]
+Current Cost       :67.5841672461773
+Number of Entries  :2456389.0
+Current Predictions:[0.2670407644318964, 2.982323805736208]
+Diff          :0.9999099848508648
+
+Iteration 24 Of Task 2
+Current Gradient   :[-3021746.137534888, 143526.46313797656]
+Transformed Gradient   :[-2.4603156401814923, 0.1168597181781685]
+Current Cost       :67.57809493305145
+Number of Entries  :2456389.0
+Current Predictions:[0.2695038916836016, 2.9822374118351465]
+Diff          :0.9999101518392061
+
+Iteration 25 Of Task 2
+Current Gradient   :[-3019215.708382302, 167943.04460383853]
+Transformed Gradient   :[-2.458255356445825, 0.13673977908534724]
+Current Cost       :67.57202949669536
+Number of Entries  :2456389.0
+Current Predictions:[0.2719642073237831, 2.9821205521169682]
+Diff          :0.9999102455261266
+
+Iteration 26 Of Task 2
+Current Gradient   :[-3017287.9789478746, 183868.97564035177]
+Transformed Gradient   :[-2.456685792802259, 0.1497067244970986]
+Current Cost       :67.56596882218255
+Number of Entries  :2456389.0
+Current Predictions:[0.27442246268022896, 2.981983812337883]
+Diff          :0.9999103079401647
+
+Iteration 27 Of Task 2
+Current Gradient   :[-3015753.9202004056, 194250.01909422115]
+Transformed Gradient   :[-2.455436757126339, 0.15815900420838974]
+Current Cost       :67.55991200655033
+Number of Entries  :2456389.0
+Current Predictions:[0.27687914847303124, 2.9818341056133857]
+Diff          :0.9999103570075616
+
+Iteration 28 Of Task 2
+Current Gradient   :[-3014477.0239043036, 201009.93087612663]
+Transformed Gradient   :[-2.4543971039638293, 0.16366294660668698]
+Current Cost       :67.55385866377135
+Number of Entries  :2456389.0
+Current Predictions:[0.2793345852301576, 2.9816759466091773]
+Diff          :0.9999104003750272
+
+Iteration 29 Of Task 2
+Current Gradient   :[-3013368.142154332, 205405.03642761076]
+Transformed Gradient   :[-2.453494248797183, 0.16724145599708412]
+Current Cost       :67.5478086282159
+Number of Entries  :2456389.0
+Current Predictions:[0.2817889823341214, 2.9815122836625707]
+Diff          :0.9999104413030563
+
+Iteration 30 Of Task 2
+Current Gradient   :[-3012369.056121003, 208255.7899435669]
+Transformed Gradient   :[-2.4526807896640173, 0.1695625488825808]
+Current Cost       :67.54176182829306
+Number of Entries  :2456389.0
+Current Predictions:[0.2842424765829186, 2.9813450422065735]
+Diff          :0.9999104811829481
+
+Iteration 31 Of Task 2
+Current Gradient   :[-3011441.745476613, 210097.99613568682]
+Transformed Gradient   :[-2.451925770288511, 0.17106247922107354]
+Current Cost       :67.53571823252298
+Number of Entries  :2456389.0
+Current Predictions:[0.28669515737258267, 2.981175479657691]
+Diff          :0.9999105206081913
+
+Iteration 32 Of Task 2
+Current Gradient   :[-3010561.380695647, 211281.56690324395]
+Transformed Gradient   :[-2.4512089743893553, 0.17202614643140313]
+Current Cost       :67.52967782651756
+Number of Entries  :2456389.0
+Current Predictions:[0.2891470831428712, 2.9810044171784695]
+Diff          :0.9999105598316934
+
+Iteration 33 Of Task 2
+Current Gradient   :[-3009711.7466254574, 212035.0152415534]
+Transformed Gradient   :[-2.450517199535951, 0.17263960654566796]
+Current Cost       :67.52364060314966
+Number of Entries  :2456389.0
+Current Predictions:[0.2915982921172605, 2.9808323910320382]
+Diff          :0.9999105989608983
+
+Iteration 34 Of Task 2
+Current Gradient   :[-3008882.2537985817, 212507.57353307994]
+Transformed Gradient   :[-2.4498418237490736, 0.17302436506032223]
+Current Cost       :67.51760655846581
+Number of Entries  :2456389.0
+Current Predictions:[0.29404880931679644, 2.9806597514254927]
+Diff          :0.9999106380427663
+
+Iteration 35 Of Task 2
+Current Gradient   :[-3008065.9866555696, 212796.69927976117]
+Transformed Gradient   :[-2.449177216357482, 0.17325977219386765]
+Current Cost       :67.51157568980828
+Number of Entries  :2456389.0
+Current Predictions:[0.2964986511405455, 2.9804867270604323]
+Diff          :0.9999106770964651
+
+Iteration 36 Of Task 2
+Current Gradient   :[-3007258.4289079527, 212966.03794192406]
+Transformed Gradient   :[-2.4485197001842565, 0.17339764828935814]
+Current Cost       :67.50554799505507
+Number of Entries  :2456389.0
+Current Predictions:[0.298947828356903, 2.9803134672882385]
+Diff          :0.9999107161299137
+
+Iteration 37 Of Task 2
+Current Gradient   :[-3006456.631138647, 213057.15373720118]
+Transformed Gradient   :[-2.4478668738043092, 0.17347183506944638]
+Current Cost       :67.49952347239811
+Number of Entries  :2456389.0
+Current Predictions:[0.30139634805708726, 2.9801400696399494]
+Diff          :0.9999107551477487
+
+Iteration 38 Of Task 2
+Current Gradient   :[-3005658.6671844274, 213097.19053640994]
+Transformed Gradient   :[-2.4472171689292104, 0.17350443316299652]
+Current Cost       :67.49350212005386
+Number of Entries  :2456389.0
+Current Predictions:[0.3038442149308916, 2.97996659780488]
+Diff          :0.9999107941503215
+
+Iteration 39 Of Task 2
+Current Gradient   :[-3004863.279129185, 213103.87487905135]
+Transformed Gradient   :[-2.446569561359528, 0.17350987557675218]
+Current Cost       :67.48748393633103
+Number of Entries  :2456389.0
+Current Predictions:[0.3062914320998208, 2.979793093371717]
+Diff          :0.9999108331389869
+
+Iteration 40 Of Task 2
+Current Gradient   :[-3004069.645461114, 213088.78323167266]
+Transformed Gradient   :[-2.4459233822176487, 0.1734975879078376]
+Current Cost       :67.48146891956537
+Number of Entries  :2456389.0
+Current Predictions:[0.3087380016611803, 2.9796195834961403]
+Diff          :0.999910872114134
+
+Iteration 41 Of Task 2
+Current Gradient   :[-3003277.229665211, 213059.47570556178]
+Transformed Gradient   :[-2.4452781946712925, 0.17347372562371985]
+Current Cost       :67.47545706808198
+Number of Entries  :2456389.0
+Current Predictions:[0.311183925043398, 2.9794460859082323]
+Diff          :0.9999109110755938
+
+Iteration 42 Of Task 2
+Current Gradient   :[-3002485.6813484705, 213020.8894972652]
+Transformed Gradient   :[-2.444633713429323, 0.1734423086060597]
+Current Cost       :67.4694483801773
+Number of Entries  :2456389.0
+Current Predictions:[0.31362920323806925, 2.9792726121826085]
+Diff          :0.9999109500229303
+
+Iteration 43 Of Task 2
+Current Gradient   :[-3001694.771662531, 212976.24888043042]
+Transformed Gradient   :[-2.443989752162651, 0.17340596206906186]
+Current Cost       :67.46344285423987
+Number of Entries  :2456389.0
+Current Predictions:[0.3160738369514986, 2.9790991698740026]
+Diff          :0.999910988957497
+
+Iteration 44 Of Task 2
+Current Gradient   :[-3000904.3511379827, 212927.6594974417]
+Transformed Gradient   :[-2.443346189172792, 0.17336640043367862]
+Current Cost       :67.45744048856109
+Number of Entries  :2456389.0
+Current Predictions:[0.31851782670366124, 2.9789257639119335]
+Diff          :0.9999110278778427
+
+Iteration 45 Of Task 2
+Current Gradient   :[-3000114.322144016, 212876.49645331377]
+Transformed Gradient   :[-2.44270294496842, 0.17332474331493405]
+Current Cost       :67.45144128148841
+Number of Entries  :2456389.0
+Current Predictions:[0.32096117289283405, 2.9787523975115]
+Diff          :0.9999110667847871
+
+Iteration 46 Of Task 2
+Current Gradient   :[-2999324.620902149, 212823.6577700465]
+Transformed Gradient   :[-2.4420599676208847, 0.173281721885293]
+Current Cost       :67.44544523136865
+Number of Entries  :2456389.0
+Current Predictions:[0.32340387583780245, 2.9785790727681847]
+Diff          :0.9999111056783095
+
+Iteration 47 Of Task 2
+Current Gradient   :[-2998535.205743527, 212769.7299072137]
+Transformed Gradient   :[-2.4414172232032687, 0.17323781364206867]
+Current Cost       :67.43945233655303
+Number of Entries  :2456389.0
+Current Predictions:[0.3258459358054233, 2.9784057910462995]
+Diff          :0.9999111445584641
+
+Iteration 48 Of Task 2
+Current Gradient   :[-2997746.0494350106, 212715.09585882642]
+Transformed Gradient   :[-2.4407746895422595, 0.17319333042024404]
+Current Cost       :67.43346259535701
+Number of Entries  :2456389.0
+Current Predictions:[0.3282873530286266, 2.9782325532326577]
+Diff          :0.9999111834247092
+
+Iteration 49 Of Task 2
+Current Gradient   :[-2996957.1341738747, 212660.0057382026]
+Transformed Gradient   :[-2.44013235214282, 0.17314847586290494]
+Current Cost       :67.42747600611844
+Number of Entries  :2456389.0
+Current Predictions:[0.33072812771816884, 2.9780593599022374]
+Diff          :0.9999112222773655
+
+Iteration 50 Of Task 2
+Current Gradient   :[-2996168.4483165164, 212604.6228828732]
+Transformed Gradient   :[-2.4394902015246904, 0.17310338296000607]
+Current Cost       :67.42149256720245
+Number of Entries  :2456389.0
+Current Predictions:[0.33316826007031164, 2.9778862114263744]
+Diff          :0.9999112611168265
+
+Iteration 51 Of Task 2
+Current Gradient   :[-2995379.984237833, 212549.05396305415]
+Transformed Gradient   :[-2.438848231479487, 0.173058138562788]
+Current Cost       :67.41551227693095
+Number of Entries  :2456389.0
+Current Predictions:[0.3356077502718363, 2.9777131080434143]
+Diff          :0.99991129994244
+
+Iteration 52 Of Task 2
+Current Gradient   :[-2994591.736939783, 212493.36863556626]
+Transformed Gradient   :[-2.4382064379377884, 0.17301279938606326]
+Current Cost       :67.40953513365933
+Number of Entries  :2456389.0
+Current Predictions:[0.3380465985033158, 2.9775400499048517]
+Diff          :0.999911338754691
+
+Iteration 53 Of Task 2
+Current Gradient   :[-2993803.703139876, 212437.61239185836]
+Transformed Gradient   :[-2.4375648182269796, 0.17296740246911899]
+Current Cost       :67.4035611357236
+Number of Entries  :2456389.0
+Current Predictions:[0.3404848049412536, 2.9773670371054655]
+Diff          :0.9999113775532812
+
+Iteration 54 Of Task 2
+Current Gradient   :[-2993015.8806753177, 212381.81493829965]
+Transformed Gradient   :[-2.4369233705861064, 0.17292197199897869]
+Current Cost       :67.3975902814779
+Number of Entries  :2456389.0
+Current Predictions:[0.3429223697594806, 2.977194069702996]
+Diff          :0.9999114163384679
+
+Iteration 55 Of Task 2
+Current Gradient   :[-2992228.26810842, 212325.99567379375]
+Transformed Gradient   :[-2.4362820938445986, 0.1728765237702935]
+Current Cost       :67.39162256925484
+Number of Entries  :2456389.0
+Current Predictions:[0.3453592931300667, 2.9770211477309974]
+Diff          :0.999911455109921
+
+Iteration 56 Of Task 2
+Current Gradient   :[-2991440.864504967, 212270.16726415537]
+Transformed Gradient   :[-2.4356409872418143, 0.17283106809561138]
+Current Cost       :67.38565799741171
+Number of Entries  :2456389.0
+Current Predictions:[0.3477955752239113, 2.976848271207227]
+Diff          :0.9999114938679954
+
+Iteration 57 Of Task 2
+Current Gradient   :[-2990653.6692026732, 212214.33798268522]
+Transformed Gradient   :[-2.435000050238519, 0.17278561171108095]
+Current Cost       :67.37969656427681
+Number of Entries  :2456389.0
+Current Predictions:[0.3502312162111531, 2.976675440139131]
+Diff          :0.9999115326122492
+
+Iteration 58 Of Task 2
+Current Gradient   :[-2989866.6817711457, 212158.51322743183]
+Transformed Gradient   :[-2.4343592824842855, 0.17274015901181108]
+Current Cost       :67.37373826824111
+Number of Entries  :2456389.0
+Current Predictions:[0.3526662162613916, 2.97650265452742]
+Diff          :0.9999115713436018
+
+Iteration 59 Of Task 2
+Current Gradient   :[-2989079.9019052135, 212102.6965236608]
+Transformed Gradient   :[-2.4337186837306417, 0.17269471286808463]
+Current Cost       :67.36778310761446
+Number of Entries  :2456389.0
+Current Predictions:[0.3551005755438759, 2.976329914368408]
+Diff          :0.9999116100608378
+
+Iteration 60 Of Task 2
+Current Gradient   :[-2988293.329386363, 212046.89017412305]
+Transformed Gradient   :[-2.4330782537996734, 0.172649275154809]
+Current Cost       :67.36183108074759
+Number of Entries  :2456389.0
+Current Predictions:[0.3575342942276066, 2.9761572196555397]
+Diff          :0.9999116487645533
+
+Iteration 61 Of Task 2
+Current Gradient   :[-2987506.964054972, 211991.09567869804]
+Transformed Gradient   :[-2.432437992561416, 0.17260384709319088]
+Current Cost       :67.35588218600871
+Number of Entries  :2456389.0
+Current Predictions:[0.35996737248140626, 2.975984570380385]
+Diff          :0.9999116874549959
+
+Iteration 62 Of Task 2
+Current Gradient   :[-2986720.8057851344, 211935.31401731115]
+Transformed Gradient   :[-2.431797899913356, 0.17255842948108882]
+Current Cost       :67.34993642175073
+Number of Entries  :2456389.0
+Current Predictions:[0.3623998104739677, 2.975811966533292]
+Diff          :0.9999117261319276
+
+Iteration 63 Of Task 2
+Current Gradient   :[-2985934.85447677, 211879.54582616847]
+Transformed Gradient   :[-2.431157975774008, 0.17251302283650388]
+Current Cost       :67.34399378631
+Number of Entries  :2456389.0
+Current Predictions:[0.36483160837388107, 2.975639408103811]
+Diff          :0.9999117647950917
+
+Iteration 64 Of Task 2
+Current Gradient   :[-2985149.1100474866, 211823.79152213578]
+Transformed Gradient   :[-2.430518220076288, 0.17246762749884956]
+Current Cost       :67.33805427806223
+Number of Entries  :2456389.0
+Current Predictions:[0.3672627663496551, 2.975466895080974]
+Diff          :0.9999118034450614
+
+Iteration 65 Of Task 2
+Current Gradient   :[-2984363.5724209957, 211768.05137524416]
+Transformed Gradient   :[-2.4298786327580815, 0.17242224368798603]
+Current Cost       :67.33211789533142
+Number of Entries  :2456389.0
+Current Predictions:[0.3696932845697314, 2.975294427453475]
+Diff          :0.9999118420810572
+
+Iteration 66 Of Task 2
+Current Gradient   :[-2983578.2415320436, 211712.3255602702]
+Transformed Gradient   :[-2.429239213766259, 0.17237687154621698]
+Current Cost       :67.32618463648846
+Number of Entries  :2456389.0
+Current Predictions:[0.37212316320248945, 2.975122005209787]
+Diff          :0.9999118807037649
+
+Iteration 67 Of Task 2
+Current Gradient   :[-2982793.1173177077, 211656.61418888837]
+Transformed Gradient   :[-2.4285999630495883, 0.17233151116446813]
+Current Cost       :67.32025449991615
+Number of Entries  :2456389.0
+Current Predictions:[0.3745524024162557, 2.974949628338241]
+Diff          :0.9999119193133499
+
+Iteration 68 Of Task 2
+Current Gradient   :[-2982008.1997171794, 211600.9173356716]
+Transformed Gradient   :[-2.427960880558559, 0.17228616260345703]
+Current Cost       :67.31432748393141
+Number of Entries  :2456389.0
+Current Predictions:[0.3769810023793053, 2.9747772968270767]
+Diff          :0.999911957908823
+
+Iteration 69 Of Task 2
+Current Gradient   :[-2981223.488673192, 211545.23504488094]
+Transformed Gradient   :[-2.4273219662465446, 0.17224082589922113]
+Current Cost       :67.30840358690146
+Number of Entries  :2456389.0
+Current Predictions:[0.3794089632598639, 2.9746050106644732]
+Diff          :0.99991199649092
+
+Iteration 70 Of Task 2
+Current Gradient   :[-2980438.98412976, 211489.56734465563]
+Transformed Gradient   :[-2.4266832200679613, 0.1721955010746715]
+Current Cost       :67.30248280719407
+Number of Entries  :2456389.0
+Current Predictions:[0.38183628522611046, 2.974432769838574]
+Diff          :0.9999120350596378
+
+Iteration 71 Of Task 2
+Current Gradient   :[-2979654.6860295814, 211433.9142541049]
+Transformed Gradient   :[-2.4260446419761537, 0.17215018814536695]
+Current Cost       :67.29656514316585
+Number of Entries  :2456389.0
+Current Predictions:[0.3842629684461784, 2.9742605743374995]
+Diff          :0.9999120736148001
+
+Iteration 72 Of Task 2
+Current Gradient   :[-2978870.5943178986, 211378.27578185394]
+Transformed Gradient   :[-2.425406231926538, 0.17210488711833014]
+Current Cost       :67.29065059318975
+Number of Entries  :2456389.0
+Current Predictions:[0.38668901308815457, 2.974088424149354]
+Diff          :0.9999121121566381
+
+Iteration 73 Of Task 2
+Current Gradient   :[-2978086.708940803, 211322.65193544267]
+Transformed Gradient   :[-2.424767989875222, 0.1720595979997001]
+Current Cost       :67.28473915559745
+Number of Entries  :2456389.0
+Current Predictions:[0.3891144193200811, 2.9739163192622358]
+Diff          :0.9999121506845277
+
+Iteration 74 Of Task 2
+Current Gradient   :[-2977303.0298429, 211267.04271459166]
+Transformed Gradient   :[-2.424129915777102, 0.1720143207892493]
+Current Cost       :67.2788308287675
+Number of Entries  :2456389.0
+Current Predictions:[0.39153918730995635, 2.9737442596642363]
+Diff          :0.9999121891991543
+
+Iteration 75 Of Task 2
+Current Gradient   :[-2976519.55696898, 211211.44811903406]
+Transformed Gradient   :[-2.4234920095872274, 0.17196905548676047]
+Current Cost       :67.27292561106974
+Number of Entries  :2456389.0
+Current Predictions:[0.39396331722573347, 2.973572245343447]
+Diff          :0.9999122277003775
+
+Iteration 76 Of Task 2
+Current Gradient   :[-2975736.29026527, 211155.86814949312]
+Transformed Gradient   :[-2.4228542712618157, 0.17192380209282251]
+Current Cost       :67.26702350087406
+Number of Entries  :2456389.0
+Current Predictions:[0.3963868092353207, 2.9734002762879603]
+Diff          :0.999912266188187
+
+Iteration 77 Of Task 2
+Current Gradient   :[-2974953.2296772026, 211100.30280071488]
+Transformed Gradient   :[-2.4222167007564375, 0.17187856060315762]
+Current Cost       :67.2611244965109
+Number of Entries  :2456389.0
+Current Predictions:[0.39880966350658253, 2.9732283524858674]
+Diff          :0.9999123046619852
+
+Iteration 78 Of Task 2
+Current Gradient   :[-2974170.3751500575, 211044.75207442133]
+Transformed Gradient   :[-2.4215792980265403, 0.1718333310191678]
+Current Cost       :67.25522859637233
+Number of Entries  :2456389.0
+Current Predictions:[0.40123188020733896, 2.973056473925264]
+Diff          :0.9999123431226774
+
+Iteration 79 Of Task 2
+Current Gradient   :[-2973387.7266309457, 210989.215963058]
+Transformed Gradient   :[-2.420942063029061, 0.17178811333470229]
+Current Cost       :67.24933579882456
+Number of Entries  :2456389.0
+Current Predictions:[0.4036534595053655, 2.972884640594245]
+Diff          :0.9999123815698682
+
+Iteration 80 Of Task 2
+Current Gradient   :[-2972605.2840643297, 210933.6944654638]
+Transformed Gradient   :[-2.4203049957187805, 0.1717429075488156]
+Current Cost       :67.2434461022376
+Number of Entries  :2456389.0
+Current Predictions:[0.4060744015683946, 2.9727128524809103]
+Diff          :0.999912420003603
+
+Iteration 81 Of Task 2
+Current Gradient   :[-2971823.047396443, 210878.18757858395]
+Transformed Gradient   :[-2.4196680960519226, 0.17169771365902056]
+Current Cost       :67.23755950494672
+Number of Entries  :2456389.0
+Current Predictions:[0.40849470656411335, 2.9725411095733616]
+Diff          :0.9999124584233543
+
+Iteration 82 Of Task 2
+Current Gradient   :[-2971041.0165726845, 210822.69529678524]
+Transformed Gradient   :[-2.4190313639840304, 0.17165253166073063]
+Current Cost       :67.23167600537462
+Number of Entries  :2456389.0
+Current Predictions:[0.4109143746601653, 2.9723694118597024]
+Diff          :0.9999124968304113
+
+Iteration 83 Of Task 2
+Current Gradient   :[-2970259.1915391567, 210767.2176183833]
+Transformed Gradient   :[-2.418394799471221, 0.17160736155257436]
+Current Cost       :67.2257956018571
+Number of Entries  :2456389.0
+Current Predictions:[0.4133334060241493, 2.9721977593280418]
+Diff          :0.9999125352234703
+
+Iteration 84 Of Task 2
+Current Gradient   :[-2969477.572241846, 210711.7545379841]
+Transformed Gradient   :[-2.417758402469516, 0.1715622033301599]
+Current Cost       :67.21991829277556
+Number of Entries  :2456389.0
+Current Predictions:[0.4157518008236205, 2.9720261519664892]
+Diff          :0.9999125736031992
+
+Iteration 85 Of Task 2
+Current Gradient   :[-2968696.15863012, 210656.3060521179]
+Transformed Gradient   :[-2.4171221729376904, 0.17151705699066222]
+Current Cost       :67.21404407648625
+Number of Entries  :2456389.0
+Current Predictions:[0.41816955922609, 2.971854589763159]
+Diff          :0.9999126119692123
+
+Iteration 86 Of Task 2
+Current Gradient   :[-2967914.950639371, 210600.87215880957]
+Transformed Gradient   :[-2.41648611082314, 0.17147192253247312]
+Current Cost       :67.20817295137023
+Number of Entries  :2456389.0
+Current Predictions:[0.4205866813990277, 2.9716830727061687]
+Diff          :0.9999126503218683
+
+Iteration 87 Of Task 2
+Current Gradient   :[-2967133.948225902, 210545.45285168043]
+Transformed Gradient   :[-2.415850216090287, 0.17142679995039908]
+Current Cost       :67.20230491581094
+Number of Entries  :2456389.0
+Current Predictions:[0.42300316750985084, 2.971511600783636]
+Diff          :0.999912688661191
+
+Iteration 88 Of Task 2
+Current Gradient   :[-2966353.1513313055, 210490.0481290932]
+Transformed Gradient   :[-2.415214488691576, 0.171381689243107]
+Current Cost       :67.1964399681818
+Number of Entries  :2456389.0
+Current Predictions:[0.42541901772594115, 2.9713401739836858]
+Diff          :0.999912726987021
+
+Iteration 89 Of Task 2
+Current Gradient   :[-2965572.559902884, 210434.65798517203]
+Transformed Gradient   :[-2.4145789285840995, 0.17133659040581278]
+Current Cost       :67.19057810684743
+Number of Entries  :2456389.0
+Current Predictions:[0.42783423221463274, 2.9711687922944425]
+Diff          :0.9999127652992159
+
+Iteration 90 Of Task 2
+Current Gradient   :[-2964792.173885854, 210379.28241659587]
+Transformed Gradient   :[-2.413943535723254, 0.17129150343581237]
+Current Cost       :67.18471933018701
+Number of Entries  :2456389.0
+Current Predictions:[0.43024881114321684, 2.970997455704037]
+Diff          :0.9999128035979822
+
+Iteration 91 Of Task 2
+Current Gradient   :[-2964011.9932262343, 210323.9214209937]
+Transformed Gradient   :[-2.4133083100650867, 0.1712464283311753]
+Current Cost       :67.1788636365605
+Number of Entries  :2456389.0
+Current Predictions:[0.4326627546789401, 2.970826164200601]
+Diff          :0.999912841883022
+
+Iteration 92 Of Task 2
+Current Gradient   :[-2963232.0178700783, 210268.5749928694]
+Transformed Gradient   :[-2.412673251565675, 0.17120136508742662]
+Current Cost       :67.17301102439156
+Number of Entries  :2456389.0
+Current Predictions:[0.4350760629890052, 2.97065491777227]
+Diff          :0.9999128801552732
+
+Iteration 93 Of Task 2
+Current Gradient   :[-2962452.247763465, 210213.24312985185]
+Transformed Gradient   :[-2.4120383601811155, 0.17115631370263573]
+Current Cost       :67.16716149199763
+Number of Entries  :2456389.0
+Current Predictions:[0.4374887362405709, 2.9704837164071822]
+Diff          :0.9999129184131437
+
+Iteration 94 Of Task 2
+Current Gradient   :[-2961672.682849402, 210157.9258270618]
+Transformed Gradient   :[-2.411403635865005, 0.17111127417282992]
+Current Cost       :67.16131503780784
+Number of Entries  :2456389.0
+Current Predictions:[0.439900774600752, 2.9703125600934794]
+Diff          :0.9999129566582847
+
+Iteration 95 Of Task 2
+Current Gradient   :[-2960893.3230812782, 210102.62308052182]
+Transformed Gradient   :[-2.410769078579393, 0.17106624649477084]
+Current Cost       :67.15547166018877
+Number of Entries  :2456389.0
+Current Predictions:[0.442312178236617, 2.9701414488193065]
+Diff          :0.9999129948897548
+
+Iteration 96 Of Task 2
+Current Gradient   :[-2960114.168398394, 210047.3348873569]
+Transformed Gradient   :[-2.410134688274857, 0.17102123066611755]
+Current Cost       :67.14963135751336
+Number of Entries  :2456389.0
+Current Predictions:[0.4447229473151964, 2.9699703825728117]
+Diff          :0.9999130331076377
+
+Iteration 97 Of Task 2
+Current Gradient   :[-2959335.2187487236, 209992.06124260343]
+Transformed Gradient   :[-2.409500464909038, 0.1709762266828287]
+Current Cost       :67.1437941281739
+Number of Entries  :2456389.0
+Current Predictions:[0.44713308200347124, 2.9697993613421456]
+Diff          :0.9999130713122104
+
+Iteration 98 Of Task 2
+Current Gradient   :[-2958556.474078844, 209936.80214423325]
+Transformed Gradient   :[-2.4088664084384384, 0.17093123454325293]
+Current Cost       :67.13795997052935
+Number of Entries  :2456389.0
+Current Predictions:[0.4495425824683803, 2.969628385115463]
+Diff          :0.9999131095029661
+
+Iteration 99 Of Task 2
+Current Gradient   :[-2957777.934334025, 209881.5575859136]
+Transformed Gradient   :[-2.408232518818497, 0.1708862542422341]
+Current Cost       :67.13212888299329
+Number of Entries  :2456389.0
+Current Predictions:[0.45195144887681876, 2.9694574538809198]
+Diff          :0.9999131476807066
+
+Iteration 100 Of Task 2
+Current Gradient   :[-2956999.5994612537, 209826.3275650589]
+Transformed Gradient   :[-2.407598796006051, 0.17084128577766705]
+Current Cost       :67.12630086393553
+Number of Entries  :2456389.0
+Current Predictions:[0.45435968139563726, 2.9692865676266775]
+Diff          :0.9999131858447702
+

@@ -1,0 +1,12 @@
+edu/cs/utexas/HadoopEx/ValidTripMapper.class
+edu/cs/utexas/HadoopEx/SimpleDescentReducer.class
+edu/cs/utexas/HadoopEx/GradientDescentWritableParser$1.class
+edu/cs/utexas/HadoopEx/AssignmentDriver.class
+edu/cs/utexas/HadoopEx/ComplexDescentMapper.class
+edu/cs/utexas/HadoopEx/SimpleRegressionReducer.class
+edu/cs/utexas/HadoopEx/SimpleRegressionMapper.class
+edu/cs/utexas/HadoopEx/Trip.class
+edu/cs/utexas/HadoopEx/GradientDescentWritable.class
+edu/cs/utexas/HadoopEx/ValidTripReducer.class
+edu/cs/utexas/HadoopEx/SimpleDescentMapper.class
+edu/cs/utexas/HadoopEx/GradientDescentWritableParser.class

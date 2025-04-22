@@ -1,0 +1,11 @@
+/Users/roberttezock/Documents/GitHub/cs378-cloud-computing-a5-tezock/src/main/java/edu/cs/utexas/HadoopEx/AssignmentDriver.java
+/Users/roberttezock/Documents/GitHub/cs378-cloud-computing-a5-tezock/src/main/java/edu/cs/utexas/HadoopEx/ComplexDescentMapper.java
+/Users/roberttezock/Documents/GitHub/cs378-cloud-computing-a5-tezock/src/main/java/edu/cs/utexas/HadoopEx/GradientDescentWritable.java
+/Users/roberttezock/Documents/GitHub/cs378-cloud-computing-a5-tezock/src/main/java/edu/cs/utexas/HadoopEx/GradientDescentWritableParser.java
+/Users/roberttezock/Documents/GitHub/cs378-cloud-computing-a5-tezock/src/main/java/edu/cs/utexas/HadoopEx/SimpleDescentMapper.java
+/Users/roberttezock/Documents/GitHub/cs378-cloud-computing-a5-tezock/src/main/java/edu/cs/utexas/HadoopEx/SimpleDescentReducer.java
+/Users/roberttezock/Documents/GitHub/cs378-cloud-computing-a5-tezock/src/main/java/edu/cs/utexas/HadoopEx/SimpleRegressionMapper.java
+/Users/roberttezock/Documents/GitHub/cs378-cloud-computing-a5-tezock/src/main/java/edu/cs/utexas/HadoopEx/SimpleRegressionReducer.java
+/Users/roberttezock/Documents/GitHub/cs378-cloud-computing-a5-tezock/src/main/java/edu/cs/utexas/HadoopEx/Trip.java
+/Users/roberttezock/Documents/GitHub/cs378-cloud-computing-a5-tezock/src/main/java/edu/cs/utexas/HadoopEx/ValidTripMapper.java
+/Users/roberttezock/Documents/GitHub/cs378-cloud-computing-a5-tezock/src/main/java/edu/cs/utexas/HadoopEx/ValidTripReducer.java
